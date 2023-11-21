@@ -10,3 +10,9 @@ body {
 .App {
   text-align: center;
 }
+
+h1 {
+  width: 1500px;
+  text-align: center;
+  font-size: 35px;
+}
